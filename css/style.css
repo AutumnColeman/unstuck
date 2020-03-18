@@ -27,20 +27,26 @@ body {
 .button-container button {
   margin: 4px;
 }
-
+.contact img{
+  width: 7em;
+  height: auto;
+}
 .divider {
   display:inline-block;
-  height:auto;}
-
-#logo {
-  max-width: 70%;
-  width: auto;
-  height: auto;
-  display: block;
+  height:auto;
 }
+.logo {
+  width: 42%;
+  height: auto;
+  margin:0;
+  padding:0;
+}
+/*.navbar-brand img{
+  max-width: 78%;
+}*/
 
 .navbar {
-    margin-bottom: 1rem;}
+/*margin-bottom: 1rem;*/}
 :focus {
   outline: none; }
 .title{
